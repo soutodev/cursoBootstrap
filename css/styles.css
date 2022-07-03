@@ -197,3 +197,15 @@ header, .navbar {
     font-size: 26px;
     margin-top: 26px;
 }
+
+/* Time da Empresa */
+.card-body {
+    text-align: center;
+}
+
+.card-img-top:hover {
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    transition: 1s;
+    transform: scale(1.02);
+}
